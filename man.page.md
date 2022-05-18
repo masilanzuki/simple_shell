@@ -20,6 +20,6 @@ cd - when a “-” is used as operand, changes to the before working directory 
 # EXAMPLES
 cd user/Administrator/Documents/simple_shell
 # EXIT VALUES
-Returns 1, for success; 0 otherwise 
+Returns 1, for success; 0 otherwise
 # SEE ALSO
 https://man7.org/linux/man-pages
